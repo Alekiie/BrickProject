@@ -11,7 +11,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author huzai
+ * @author Alexander
  */
 public class Brick2 extends Brick
 {
